@@ -23,7 +23,7 @@ Get real-time exchange rate for the Algerian Dinar in common square currencies.
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
-#### Get item
+#### Convert currency in real-time
 
 ```http
   GET https//square.codz.dev/api/convert
