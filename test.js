@@ -2,7 +2,7 @@
 
 const squareConverter = require('square-codz');
 
-const apiKey = '123456';
+const apiKey = 'YOUR_API_KEY';
 
 // Test de la fonction convertCurrency
 squareConverter.convertCurrency(apiKey, 100, 'EUR', 'buy')
